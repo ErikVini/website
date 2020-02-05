@@ -1,11 +1,11 @@
-title: IAGML
-tagline: IAGML
+title: WoSAMLA
+tagline: WoSAMLA
 subtitle: "IAG &#8226; USP"
 email: your-email@example.com
 description: >-
   IAG USP
 baseurl: ""
-url: "https://iagml.github.io"
+url: "https://wosamla.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 permalink: pretty
