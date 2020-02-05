@@ -5,8 +5,8 @@
 - name: Palestras
   link: /website/palestras/
 - name: Lista de participantes
-  link: /participantes/
+  link: /website/participantes/
 - name: Inscrição
-  link: /incricao/
+  link: /website/incricao/
 - name: Contato
-  link: /contato/
+  link: /website/contato/
