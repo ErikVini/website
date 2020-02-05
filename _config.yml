@@ -74,3 +74,5 @@ collections:
   authors:
     output: true
     layout: author
+
+theme: jekyll-theme-cayman
