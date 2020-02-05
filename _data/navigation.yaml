@@ -7,6 +7,6 @@
 - name: Lista de participantes
   link: /participantes/
 - name: Inscrição
-  link: /incricao/
-- name: Contato
+  link: /inscricao/
+  name: Contato
   link: /contato/
