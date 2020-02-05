@@ -1,12 +1,12 @@
 - name: Início
-  link: /
+  link: /website/
 - name: Local
-  link: /local/
+  link: /website/local/
 - name: Palestras
-  link: /palestras/
+  link: /website/palestras/
 - name: Lista de participantes
-  link: /participantes/
+  link: /website/participantes/
 - name: Inscrição
-  link: /inscricao/
-  name: Contato
-  link: /contato/
+  link: /website/incricao/
+- name: Contato
+  link: /website/contato/
