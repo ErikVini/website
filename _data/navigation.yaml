@@ -1,9 +1,9 @@
 - name: Início
   link: /
 - name: Local
-  link: /local/
+  link: /website/local/
 - name: Palestras
-  link: /palestras/
+  link: /website/palestras/
 - name: Lista de participantes
   link: /participantes/
 - name: Inscrição
